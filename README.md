@@ -18,7 +18,7 @@ This repository includes four main files:
 
 
 ## Contact
-Welcome to communicate with us: 1120200786@bit.edu.cn
+Welcome to communicate with us: hanjay254@gmail.com
 
 ## Acknowledgments
 We extend our sincere gratitude to our THUFDD Group, led by Prof. Xiao He and Prof. Donghua Zhou, for their invaluable support and contributions to the development of this scheme.
